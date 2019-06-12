@@ -8,7 +8,7 @@
 }
 .nav-link:hover{
     font-weight: 500;
-    color: #f46404;
+    color: #f46404 !important ;
     border-bottom: 2px solid #f46404;
 }
 .nav-link:active{
